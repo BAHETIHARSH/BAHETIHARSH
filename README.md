@@ -25,3 +25,6 @@ You can click the Preview link to take a look at your changes.
 <br><br> 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAHETIHARSH&show_icons=true&theme=prussian)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BAHETIHARSH&hide=TeX&layout=compact&theme=prussian)
+
+
+[![@bahetiharsh's Holopin board](https://holopin.io/api/user/board?user=bahetiharsh)](https://holopin.io/@bahetiharsh)
